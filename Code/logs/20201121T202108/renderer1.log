@@ -1,0 +1,1 @@
+[2020-11-21 20:21:54.804] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-toolsai.jupyter' took 86% of 8561.139ms, saved PROFILE here: '/tmp/exthost-053787.cpuprofile' [{"id":"gc","total":1200948,"percentage":14},{"id":"ms-toolsai.jupyter","total":7355061,"percentage":86},{"id":"program","total":26,"percentage":0},{"id":"self","total":1282,"percentage":0}]

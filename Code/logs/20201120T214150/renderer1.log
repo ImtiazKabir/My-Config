@@ -1,0 +1,11 @@
+[2020-11-20 21:42:02.993] [renderer1] [error] Error: Unable to read file '/home/code/C/project/main.c' (Error: Unable to resolve non-existing file '/home/code/C/project/main.c')
+    at Object.t.createErrorWithActions (file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:56:307)
+    at w.handleSetInputError (file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:6258:391)
+    at w.handleSetInputError (file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:6261:52)
+    at w.setInput (file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:6258:98)
+    at async p.doSetInput (file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:4627:4)
+    at async p.openEditor (file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:4625:617)
+    at async file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:6886:617
+    at async e.restoreEditors (file:///home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:6879:609)
+[2020-11-20 21:42:37.612] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:42:43.434] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

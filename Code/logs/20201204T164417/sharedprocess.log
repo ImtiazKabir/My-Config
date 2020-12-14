@@ -1,0 +1,29 @@
+[2020-12-04 16:44:26.844] [sharedprocess] [info] main {"machineId":"d6913e04aa0f60cbee337520f0f816bc76f7d1b3161eebbc98bdbcdc470efa33","windowId":2}
+[2020-12-04 16:44:29.314] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/code/.vscode/extensions/ms-toolsai.jupyter-2020.11.372831992
+[2020-12-04 16:44:39.580] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2020-12-04 16:44:39.606] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-12-04 16:44:51.217] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2020-12-04 16:44:57.905] [sharedprocess] [info] Extracted extension to /home/code/.vscode/extensions/.ms-vscode.cpptools-1.1.3: ms-vscode.cpptools
+[2020-12-04 16:44:57.919] [sharedprocess] [info] Renamed to /home/code/.vscode/extensions/ms-vscode.cpptools-1.1.3
+[2020-12-04 16:44:58.115] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-12-04 16:44:58.418] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-12-04 16:45:06.954] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-12-04 16:45:37.954] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-12-04 16:45:47.404] [sharedprocess] [info] Extracted extension to /home/code/.vscode/extensions/.ms-toolsai.jupyter-2020.11.399280825: ms-toolsai.jupyter
+[2020-12-04 16:45:47.405] [sharedprocess] [info] Renamed to /home/code/.vscode/extensions/ms-toolsai.jupyter-2020.11.399280825
+[2020-12-04 16:45:47.425] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2020-12-04 16:45:47.609] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-12-04 16:47:53.788] [sharedprocess] [info] Installing extension: hyeon.c-math-viewer
+[2020-12-04 16:48:01.291] [sharedprocess] [info] Downloaded extension: hyeon.c-math-viewer undefined
+[2020-12-04 16:48:03.766] [sharedprocess] [info] Extracted extension to /home/code/.vscode/extensions/.hyeon.c-math-viewer-1.0.4: hyeon.c-math-viewer
+[2020-12-04 16:48:03.767] [sharedprocess] [info] Renamed to /home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4
+[2020-12-04 16:48:03.771] [sharedprocess] [info] Installation completed. hyeon.c-math-viewer
+[2020-12-04 16:48:04.055] [sharedprocess] [info] Extensions installed successfully: hyeon.c-math-viewer
+[2020-12-04 16:48:13.716] [sharedprocess] [info] Installing extension: koehlma.markdown-math
+[2020-12-04 16:48:16.164] [sharedprocess] [info] Downloaded extension: koehlma.markdown-math undefined
+[2020-12-04 16:48:19.243] [sharedprocess] [info] Extracted extension to /home/code/.vscode/extensions/.koehlma.markdown-math-0.1.0: koehlma.markdown-math
+[2020-12-04 16:48:19.244] [sharedprocess] [info] Renamed to /home/code/.vscode/extensions/koehlma.markdown-math-0.1.0
+[2020-12-04 16:48:19.250] [sharedprocess] [info] Installation completed. koehlma.markdown-math
+[2020-12-04 16:48:19.507] [sharedprocess] [info] Extensions installed successfully: koehlma.markdown-math
+[2020-12-04 16:51:45.421] [sharedprocess] [info] Uninstalling extension: koehlma.markdown-math
+[2020-12-04 16:51:45.646] [sharedprocess] [info] Successfully uninstalled extension: koehlma.markdown-math

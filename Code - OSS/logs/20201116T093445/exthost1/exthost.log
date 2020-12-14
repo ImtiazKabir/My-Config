@@ -1,0 +1,72 @@
+[2020-11-16 09:35:07.348] [exthost] [info] extension host started
+[2020-11-16 09:35:07.926] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:c"}
+[2020-11-16 09:35:07.927] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode-oss/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-11-16 09:35:08.014] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onDebugDynamicConfigurations"}
+[2020-11-16 09:35:08.015] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-16 09:35:09.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-16 09:35:09.410] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-11-16 09:35:09.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-16 09:35:09.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-16 09:35:09.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-16 09:35:09.592] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-11-16 09:35:09.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-16 09:35:09.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-16 09:35:09.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-16 09:35:09.836] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-11-16 09:35:09.865] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2020-11-16 09:35:09.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2020-11-16 09:35:10.130] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-11-16 09:35:10.131] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode-oss/extensions/equinusocio.vsc-material-theme-33.0.0/build/material.theme.config
+[2020-11-16 09:35:10.134] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-11-16 09:35:10.135] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension
+[2020-11-16 09:35:10.137] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2020-11-16 09:35:10.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode-oss/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2020-11-16 09:35:10.204] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-11-16 09:35:10.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode-oss/extensions/pkief.material-icon-theme-4.4.0/dist/extension
+[2020-11-16 09:35:10.279] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material {"startup":true,"extensionId":{"value":"sainnhe.gruvbox-material","_lower":"sainnhe.gruvbox-material"},"activationEvent":"*"}
+[2020-11-16 09:35:10.279] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode-oss/extensions/sainnhe.gruvbox-material-6.3.4/out/extension.js
+[2020-11-16 09:35:10.458] [exthost] [error] Activating extension Equinusocio.vsc-material-theme failed due to an error:
+[2020-11-16 09:35:10.473] [exthost] [error] Error: Cannot find module '/home/code/.vscode-oss/extensions/equinusocio.vsc-material-theme-33.0.0/build/material.theme.config'
+Require stack:
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:17)
+	at Module._load (internal/modules/cjs/loader.js:690:27)
+	at Function.Module._load (electron/js2c/asar.js:769:28)
+	at Function.t._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1057:776)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1027:486)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1023:767)
+	at Module.require (internal/modules/cjs/loader.js:852:19)
+	at require (internal/modules/cjs/helpers.js:74:18)
+	at Function.s [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:34:963)
+	at p._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1028:771)
+	at p._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:925:742)
+	at p._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:924:822)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async Promise.all (index 6)
+	at async Promise.all (index 0)
+[2020-11-16 09:35:10.474] [exthost] [error] Activating extension equinusocio.vsc-material-theme-icons failed due to an error:
+[2020-11-16 09:35:10.475] [exthost] [error] Error: Cannot find module '/home/code/.vscode-oss/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension'
+Require stack:
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+	at Function.Module._resolveFilename (internal/modules/cjs/loader.js:797:17)
+	at Module._load (internal/modules/cjs/loader.js:690:27)
+	at Function.Module._load (electron/js2c/asar.js:769:28)
+	at Function.t._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1057:776)
+	at Function.i._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1027:486)
+	at Function.n._load (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1023:767)
+	at Module.require (internal/modules/cjs/loader.js:852:19)
+	at require (internal/modules/cjs/helpers.js:74:18)
+	at Function.s [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:34:963)
+	at p._loadCommonJSModule (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1028:771)
+	at p._doActivateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:925:742)
+	at p._activateExtension (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:924:822)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async Promise.all (index 7)
+	at async Promise.all (index 0)
+[2020-11-16 09:35:12.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-16 09:35:12.020] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2020-11-16 09:35:13.405] [exthost] [info] eager extensions activated

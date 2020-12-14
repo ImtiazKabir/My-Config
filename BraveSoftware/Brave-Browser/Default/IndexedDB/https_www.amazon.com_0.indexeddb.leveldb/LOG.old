@@ -1,0 +1,15 @@
+2020/08/29-13:04:01.437 11b3 Reusing MANIFEST /home/code/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/29-13:04:01.437 11b3 Recovering log #4
+2020/08/29-13:04:01.438 11b3 Reusing old log /home/code/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000004.log 
+2020/08/29-13:04:46.292 13ec Level-0 table #8: started
+2020/08/29-13:04:46.360 13ec Level-0 table #8: 535 bytes OK
+2020/08/29-13:04:46.407 13ec Delete type=0 #4
+2020/08/29-13:04:46.410 13ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/29-13:04:46.411 13ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\xf0\xf3\xea\x93CwB\x00\x01\x14\x004\x00A\x00J\x00K\x00B\x00F\x00G\x00E\x001\x001\x00D\x00N\x00Q\x00Y\x002\x00N\x00V\x005\x009\x009' @ 80 : 1
+2020/08/29-13:04:46.411 13ec Compacting 1@1 + 1@2 files
+2020/08/29-13:04:46.516 13ec Generated table #9@1: 27 keys, 756 bytes
+2020/08/29-13:04:46.516 13ec Compacted 1@1 + 1@2 files => 756 bytes
+2020/08/29-13:04:46.561 13ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/29-13:04:46.562 13ec Delete type=2 #8
+2020/08/29-13:04:46.562 13ec Delete type=2 #5
+2020/08/29-13:04:46.562 13ec Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\xf0\xf3\xea\x93CwB\x00\x01\x14\x004\x00A\x00J\x00K\x00B\x00F\x00G\x00E\x001\x001\x00D\x00N\x00Q\x00Y\x002\x00N\x00V\x005\x009\x009' @ 80 : 1 .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+[2020-11-21 16:52:08.637] [sharedprocess] [info] main {"machineId":"d6913e04aa0f60cbee337520f0f816bc76f7d1b3161eebbc98bdbcdc470efa33","windowId":2}
+[2020-11-21 16:52:48.753] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-11-21 16:53:16.422] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-11-21 16:53:58.273] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2020-11-21 16:54:39.667] [sharedprocess] [info] Extracted extension to /home/code/.vscode/extensions/.ms-python.python-2020.11.371526539: ms-python.python
+[2020-11-21 16:54:39.675] [sharedprocess] [info] Renamed to /home/code/.vscode/extensions/ms-python.python-2020.11.371526539
+[2020-11-21 16:54:39.715] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-11-21 16:54:40.769] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2020-11-21 16:55:07.410] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-11-21 16:55:22.211] [sharedprocess] [info] Extracted extension to /home/code/.vscode/extensions/.ms-toolsai.jupyter-2020.11.372831992: ms-toolsai.jupyter
+[2020-11-21 16:55:22.292] [sharedprocess] [info] Renamed to /home/code/.vscode/extensions/ms-toolsai.jupyter-2020.11.372831992
+[2020-11-21 16:55:22.355] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2020-11-21 16:55:22.442] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-11-21 16:55:22.474] [sharedprocess] [info] Extensions installed successfully: ms-python.python

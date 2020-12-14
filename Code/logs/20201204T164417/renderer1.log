@@ -1,0 +1,374 @@
+[2020-12-04 16:45:04.730] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.typescript-language-features' took 100% of 5666.444ms, saved PROFILE here: '/tmp/exthost-413641.cpuprofile' [{"id":"vscode.typescript-language-features","total":5658950,"percentage":100}]
+[2020-12-04 16:48:23.648] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:48:33.793] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:48:39.829] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:48:50.233] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:48:51.169] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:48:51.877] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:48:54.603] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:48:58.763] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:49:03.697] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:49:11.883] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:49:28.930] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:24:28)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:49:33.353] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:49:34.623] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:49:38.862] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:49:41.609] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:24:28)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:51:33.700] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:54:02.048] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:54:02.745] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:54:04.540] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-12-04 16:54:09.154] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:523:487)
+	at new V (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:511:436)
+	at Object.provideHover (/home/code/.vscode/extensions/hyeon.c-math-viewer-1.0.4/out/extension.js:19:24)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:312
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:208
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:52:180)
+	at k.provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:739:283)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:893
+	at G._withAdapter (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:757:832)
+	at G.$provideHover (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:760:871)
+	at g._doInvokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:926)
+	at g._invokeHandler (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:876:618)
+	at g._receiveRequest (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:875:201)
+	at g._receiveOneMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:874:6)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:872:136
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:1066:179
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at v.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:256:601)
+	at t.PersistentProtocol._receiveMessage (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:261:629)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:258:708
+	at l.fire (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:67)
+	at p.acceptChunk (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:989)
+	at /home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:253:341
+	at Socket.t (/home/code/Downloads/VSCode-linux-x64/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:263:276)
+	at Socket.emit (events.js:223:5)
+	at addChunk (_stream_readable.js:309:12)
+	at readableAddChunk (_stream_readable.js:290:11)
+	at Socket.Readable.push (_stream_readable.js:224:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:181:23)
+[2020-12-04 16:54:19.162] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,10 @@
+[2020-11-20 21:33:57.257] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:03.070] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:10.356] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:14.916] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:22.679] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:27.615] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:30.033] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:47.110] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2020-11-20 21:34:47.373] [renderer1] [warning] UNRESPONSIVE extension host, 'CoenraadS.bracket-pair-colorizer-2' took 76% of 4177.29ms, saved PROFILE here: '/tmp/exthost-632342.cpuprofile' [{"id":"aaron-bond.better-comments","total":9053,"percentage":0},{"id":"alefragnani.Bookmarks","total":3927,"percentage":0},{"id":"CoenraadS.bracket-pair-colorizer-2","total":3178932,"percentage":76},{"id":"gc","total":199069,"percentage":5},{"id":"ms-vscode.cpptools","total":209332,"percentage":5},{"id":"oderwat.indent-rainbow","total":88399,"percentage":2},{"id":"program","total":8689,"percentage":0},{"id":"self","total":378699,"percentage":9},{"id":"vscode.extension-editing","total":354,"percentage":0},{"id":"vscode.git","total":93323,"percentage":2},{"id":"vscode.json-language-features","total":2569,"percentage":0},{"id":"vscode.merge-conflict","total":3476,"percentage":0},{"id":"vscode.npm","total":852,"percentage":0}]
+[2020-11-20 21:35:12.891] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

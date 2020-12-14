@@ -1,0 +1,1 @@
+[2020-11-16 10:08:52.841] [renderer1] [warning] UNRESPONSIVE extension host, 'CoenraadS.bracket-pair-colorizer-2' took 100% of 1256.2ms, saved PROFILE here: '/tmp/exthost-473c7b.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":1252743,"percentage":100}]

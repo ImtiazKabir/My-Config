@@ -1,0 +1,13 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/code/C/diff-lim-agg
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse main
+> git rev-parse --symbolic-full-name main@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right main...refs/remotes/origin/main
+Open repository: /home/code/C/maze
+Open repository: /home/code/C/partition
+Open repository: /home/code/C/snake

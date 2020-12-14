@@ -1,0 +1,86 @@
+[2020-11-30 18:51:20.698] [exthost] [info] extension host started
+[2020-11-30 18:51:22.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-11-30 18:51:22.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-30 18:51:22.218] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:c"}
+[2020-11-30 18:51:22.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-11-30 18:51:22.273] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:c"}
+[2020-11-30 18:51:22.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/ms-vscode.cpptools-1.1.2/dist/main
+[2020-11-30 18:51:22.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-30 18:51:22.817] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-30 18:51:22.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-30 18:51:22.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-30 18:51:23.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-30 18:51:23.233] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2020-11-30 18:51:23.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-30 18:51:23.440] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-30 18:51:23.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-30 18:51:23.527] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/search-result/dist/extension.js
+[2020-11-30 18:51:23.573] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"extensionId":{"value":"alefragnani.Bookmarks","_lower":"alefragnani.bookmarks"},"activationEvent":"*"}
+[2020-11-30 18:51:23.582] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/alefragnani.bookmarks-11.4.0/dist/extension
+[2020-11-30 18:51:23.675] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2020-11-30 18:51:23.675] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2020-11-30 18:51:24.561] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-11-30 18:51:24.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/equinusocio.vsc-material-theme-33.0.0/build/material.theme.config
+[2020-11-30 18:51:24.964] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-11-30 18:51:24.965] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension
+[2020-11-30 18:51:25.227] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2020-11-30 18:51:25.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2020-11-30 18:51:25.261] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material {"startup":true,"extensionId":{"value":"sainnhe.gruvbox-material","_lower":"sainnhe.gruvbox-material"},"activationEvent":"*"}
+[2020-11-30 18:51:25.261] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/sainnhe.gruvbox-material-6.3.4/out/extension.js
+[2020-11-30 18:51:29.728] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-30 18:51:29.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-30 18:51:31.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-30 18:51:31.275] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/github/dist/extension.js
+[2020-11-30 18:51:31.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-11-30 18:51:31.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2020-11-30 18:51:31.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2020-11-30 18:51:31.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2020-11-30 18:51:32.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-11-30 18:51:32.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2020-11-30 18:51:32.437] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2020-11-30 18:51:32.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/npm/dist/npmMain
+[2020-11-30 18:51:35.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-11-30 18:51:35.305] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/typescript-language-features/dist/extension
+[2020-11-30 18:51:44.126] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-11-30 18:51:44.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-30 18:51:44.315] [exthost] [info] eager extensions activated
+[2020-11-30 18:52:00.308] [exthost] [info] extension host started
+[2020-11-30 18:52:00.730] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2020-11-30 18:52:00.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2020-11-30 18:52:00.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-11-30 18:52:00.780] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-11-30 18:52:00.791] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-11-30 18:52:00.791] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2020-11-30 18:52:00.891] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-30 18:52:00.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2020-11-30 18:52:01.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-11-30 18:52:01.129] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2020-11-30 18:52:01.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-11-30 18:52:01.196] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/search-result/dist/extension.js
+[2020-11-30 18:52:01.210] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"extensionId":{"value":"alefragnani.Bookmarks","_lower":"alefragnani.bookmarks"},"activationEvent":"*"}
+[2020-11-30 18:52:01.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/alefragnani.bookmarks-11.4.0/dist/extension
+[2020-11-30 18:52:01.296] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2 {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer-2","_lower":"coenraads.bracket-pair-colorizer-2"},"activationEvent":"*"}
+[2020-11-30 18:52:01.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0/out/src/extension
+[2020-11-30 18:52:01.493] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2020-11-30 18:52:01.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/equinusocio.vsc-material-theme-33.0.0/build/material.theme.config
+[2020-11-30 18:52:01.567] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2020-11-30 18:52:01.567] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.0/out/src/extension
+[2020-11-30 18:52:01.614] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2020-11-30 18:52:01.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2020-11-30 18:52:01.620] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material {"startup":true,"extensionId":{"value":"sainnhe.gruvbox-material","_lower":"sainnhe.gruvbox-material"},"activationEvent":"*"}
+[2020-11-30 18:52:01.621] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/sainnhe.gruvbox-material-6.3.4/out/extension.js
+[2020-11-30 18:52:05.000] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2020-11-30 18:52:05.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2020-11-30 18:52:05.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-11-30 18:52:05.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/github/dist/extension.js
+[2020-11-30 18:52:06.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2020-11-30 18:52:06.228] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/github-authentication/dist/extension.js
+[2020-11-30 18:52:06.291] [exthost] [info] eager extensions activated
+[2020-11-30 18:52:12.999] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-11-30 18:52:13.026] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/Downloads/VSCode-linux-x64/resources/app/extensions/python/dist/pythonMain
+[2020-11-30 18:52:13.161] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:python"}
+[2020-11-30 18:52:13.161] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2020-11-30 18:52:13.211] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2020-11-30 18:52:13.212] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/ms-toolsai.jupyter-2020.11.372831992/out/client/extension
+[2020-11-30 18:52:22.651] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-11-30 18:52:22.652] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/code/.vscode/extensions/ms-python.python-2020.11.371526539/out/client/extension

@@ -1,0 +1,5 @@
+2020/08/30-05:34:50.234 ef1 Reusing MANIFEST /home/code/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.pexels.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/30-05:36:43.516 27af Level-0 table #5: started
+2020/08/30-05:36:43.610 27af Level-0 table #5: 2964 bytes OK
+2020/08/30-05:36:43.654 27af Delete type=0 #3
+2020/08/30-05:36:43.654 27af Manual compaction at level-0 from (begin) .. (end); will stop at (end)

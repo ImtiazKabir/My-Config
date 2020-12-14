@@ -1,0 +1,8 @@
+[2020-11-30 18:51:06.652] [sharedprocess] [info] main {"machineId":"d6913e04aa0f60cbee337520f0f816bc76f7d1b3161eebbc98bdbcdc470efa33","windowId":2}
+[2020-11-30 18:51:28.563] [sharedprocess] [info] Installing extension: alefragnani.bookmarks
+[2020-11-30 18:51:46.765] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-11-30 18:52:14.660] [sharedprocess] [info] Downloaded extension: alefragnani.bookmarks undefined
+[2020-11-30 18:52:16.269] [sharedprocess] [info] Extracted extension to /home/code/.vscode/extensions/.alefragnani.bookmarks-12.0.0: alefragnani.bookmarks
+[2020-11-30 18:52:16.271] [sharedprocess] [info] Renamed to /home/code/.vscode/extensions/alefragnani.bookmarks-12.0.0
+[2020-11-30 18:52:16.281] [sharedprocess] [info] Installation completed. alefragnani.bookmarks
+[2020-11-30 18:52:16.427] [sharedprocess] [info] Extensions installed successfully: alefragnani.bookmarks
